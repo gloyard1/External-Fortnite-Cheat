@@ -7,7 +7,7 @@
 
 # Intructions
 - Disable all Anti-Virus protection services
-- Run *NAME* (before loading Fortnite) 
+- Run *sourcedbyglo* (before loading Fortnite) 
 - Type "1" Enter
 - Inject & Launch Fortnite
 - Click "Done" 
