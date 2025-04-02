@@ -1,4 +1,4 @@
-# Choppy aimbot & visuals w/ fov 
+# Choppy aimbot & Visuals w/ fov 
 - Undetected in rank ( mostly 4 legit use)
 
 # Open Source Cheat
